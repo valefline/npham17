@@ -1,7 +1,6 @@
 <html><head>
         <title>Admin Login</title>
-        <link rel="stylesheet" href="../views/form_stylesheet.css">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div id="wrapper" style="height: 100%;">
@@ -34,7 +33,13 @@
                     </div>
                 </form>
             </main>
-            
-        </div>
+            <h3><a href="#top">Back to Top</a></h3>
+			<footer>
+			111-222-3333<br>
+			4200 Blazal Bud Cv<br>
+			Krypton, GA<br>
+			<a href="">Email: PlanetDaily@Planet.com</a>
+                        </footer>
+         </div>
      </body>
 </html>
