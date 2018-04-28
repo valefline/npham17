@@ -7,7 +7,7 @@
     <body>
         <div id="wrapper" style="height: 100%;">
             <header>
-    <h1>Welcome to Planet Daily!</h1>
+    <h1>Thanks for subscribing to Planet Daily!</h1>
 </header>
 <nav>
     <ul>
