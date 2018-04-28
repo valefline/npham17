@@ -12,7 +12,7 @@
 <nav>
     <ul>
         <li><a href="homepage.html">Homepage</a></li>
-        <li><a href="registration.php">User Registration</a></li>
+        <li><a href="subscribe.php">Subscribe</a></li>
         <li><a href="userlogin.php">User Login</a></li>
         <li><a href="adminlogin.php">Admin Login</a></li>
     </ul>
@@ -35,6 +35,13 @@
                     </div>
                 </form>
             </main>
+            <h3><a href="#top">Back to Top</a></h3>
+			<footer>
+			111-222-3333<br>
+			4200 Blazal Bud Cv<br>
+			Krypton, GA<br>
+			<a href="">Email: PlanetDaily@Planet.com</a>
+			</footer>
         </div>
     </body>
 </html>
