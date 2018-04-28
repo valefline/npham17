@@ -8,6 +8,8 @@
         <div id="wrapper" style="height: 100%;">
             <header>
     <h1>Thanks for subscribing to Planet Daily!</h1>
+    <p>By having a subscription, you are able to view these news stories without having to worry about ads in between each
+       article. We thank you for your support and hope you continue to utilize our services.</p>
 </header>
 <nav>
     <ul>
