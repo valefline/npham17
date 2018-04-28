@@ -1,13 +1,13 @@
 <html>
     <head>
-        <title>Planet Daily- User Login</title>
+        <title>Planet Daily - User Login</title>
         <link rel="stylesheet" href="../views/style.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     </head>
     <body>
         <div id="wrapper" style="height: 100%;">
             <header>
-    <h1>Welcome to Planet Daily!</h1>
+    <h1>Welcome back to Planet Daily!</h1>
 </header>
 <nav>
     <ul>
@@ -36,8 +36,13 @@
                     <p>Don't have an account? <a href="subscribe.php">Sign up now</a>.</p>
                 </form>
             </main>
+		<h3><a href="#top">Back to Top</a></h3>
+			<footer>
+			111-222-3333<br>
+			4200 Blazal Bud Cv<br>
+			Krypton, GA<br>
+			<a href="">Email: PlanetDaily@Planet.com</a>
+			</footer>
         </div>
-
-	
-
-</body></html>
+    </body>
+</html>
