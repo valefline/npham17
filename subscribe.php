@@ -31,7 +31,7 @@
                         <span class="help-block"></span>
                     </div>
                     <div class="form-group">
-                        <input value="Register" type="submit">
+                        <input value="Subscribe" type="submit">
                     </div>
                 </form>
             </main>
