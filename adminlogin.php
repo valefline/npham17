@@ -1,5 +1,5 @@
 <html><head>
-        <title>Admin Login</title>
+        <title>Plane Daily - Admin Login</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
